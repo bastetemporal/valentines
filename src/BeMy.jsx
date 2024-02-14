@@ -45,7 +45,7 @@ function BeMy() {
   const handleYesClick = () => {
     setShowPopup(true);
     // Redirect to another HTML file
-    window.location.href = 'path/to/another/file.html';
+    window.location.href = '../record player/index.html';
   };
 
   const handleClosePopup = () => {
